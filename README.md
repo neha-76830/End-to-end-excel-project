@@ -1,6 +1,8 @@
 # End-to-end-excel-project
 
 📊 Excel End-to-End Sales Dashboard Project
+
+
 This project is a complete Excel-based Sales Performance Analysis, demonstrating the use of raw data transformation, KPI calculation, and interactive dashboard creation using Excel formulas and features like pivot tables and charts.
 
 ![Excel dashboard](https://github.com/user-attachments/assets/a82b2821-a87a-4e28-ab49-e559a6f78f83)
